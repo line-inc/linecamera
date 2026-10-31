@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bright green square in the center -->
+    <path
+        android:fillColor="#38D352"
+        android:pathData="M24,24 h60 v60 h-60 z" />
+    <!-- Horizontal black line in the center of the green square -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M42,52 h24 v4 h-24 z" />
+</vector>
