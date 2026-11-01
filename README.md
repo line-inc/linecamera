@@ -11,7 +11,7 @@
 - ⚡ **Ultra-High 160 Mbps Bitrate Engine**: Record cinema-quality HEVC and H.264 video with maximum bitrate options up to **160 Mbps** (far exceeding standard camera apps).
 - 🎛️ **Xiaomi-Style Animated Zoom Ring**: Intuitive pop-in curved arc zoom dial with butter-smooth 250ms interpolated transitions between **0.6x**, **1.0x**, **2x**, **3x**, **5x**, **10x**, **30x**, and **100x** lens presets.
 - 📐 **Dual-Axis Gyro Spirit Level**: Real-time dual-axis (pitch & roll) angle indicators overlaid on the viewfinder to maintain a perfectly level horizon.
-- 🔍 **Flagship Autofocus Tuning**: Specialized single-shot and continuous autofocus engine tuned specifically for multi-camera flagships like the Samsung Galaxy S22 Ultra and POCO devices without constant lens hunting.
+- 🔍 **Flagship Autofocus Tuning**: Specialized single-shot and continuous autofocus engine tuned specifically for multi-camera flagships like the Samsung Galaxy S25 Ultra and POCO devices without constant lens hunting.
 - 🎚️ **Manual Focus Diopter Control**: Fine-tune focus distance using an exact diopter slider for macro and manual focus lock.
 
 ---
